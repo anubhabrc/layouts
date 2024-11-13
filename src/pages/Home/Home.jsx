@@ -1,5 +1,5 @@
 import React from "react";
-import ScrollIndicator from "../../components/Scrollindicator";
+import ScrollIndicator from "../../components/ScrollIndicator";
 import Accordion from "../../components/Accordian";
 import Footer from "../../components/Footer";
 import { LiaFireAltSolid } from "react-icons/lia";
